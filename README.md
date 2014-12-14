@@ -1,6 +1,6 @@
 bc-coreos
 =========
-
+[]2014-12-13Sat.22:47:19@ just commit idk 
 IHaskell? DigitalOcean Vultur?
 
 
